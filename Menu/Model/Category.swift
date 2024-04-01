@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+//
 struct Category:Hashable, Equatable {
     
     var id:UUID = UUID()
